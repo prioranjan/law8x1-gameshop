@@ -1,0 +1,7 @@
+{
+  "name": "Law8x1 Gameshop",
+  "description": "A high-performance gaming top-up e-commerce application with admin dashboard, secure orders, and AI-powered game assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
